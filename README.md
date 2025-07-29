@@ -1,9 +1,3 @@
-# 📦 React TypeScript Portfolio
-
-A sleek and responsive personal portfolio built with **React** and **TypeScript**, designed to showcase my projects, skills, and achievements.
-
----
-
 ## 🚀 Runtime Environment
 
 - **Node.js Version:** `20.14.0`  
@@ -17,8 +11,8 @@ Follow the steps below to set up the project for development or production use.
 
 ### 🧪 Development Setup
 
-1. **Clone the repository** `git clone <repository-url>`  
-2. **Navigate into the project directory** `cd <project-name>`  
+1. **Clone the repository** `git@github.com:vhviet/study-typescript.git>`  
+2. **Navigate into the project directory** `cd study-typescript`  
 3. **Install dependencies** `npm install`  
 4. **Configure environment variables (optional)** – Edit `.env.development` if needed  
 5. **Run the development server** `npm run dev`
@@ -28,8 +22,8 @@ Follow the steps below to set up the project for development or production use.
 
 ### 🌐 Production Setup
 
-1. **Clone the repository** `git clone <repository-url>`  
-2. **Navigate into the project directory** `cd <project-name>`  
+1. **Clone the repository** `git clone git@github.com:vhviet/study-typescript.git`  
+2. **Navigate into the project directory** `cd study-typescript`  
 3. **Install dependencies** `npm install`  
 4. **Configure environment variables (optional)** – Edit `.env.production` if needed  
 5. **Build the project** `npm run build`
